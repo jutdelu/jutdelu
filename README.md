@@ -1,4 +1,9 @@
-## Hey, I'm Juliana! 😊
+<div align="center">
+ <div> 
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E410E6&center=true&vCenter=true&random=false&width=524&lines=Hey,+I'm+Juliana!+%CB%99%E1%B5%95%CB%99" alt="Typing SVG">
+</a>
+</div>
 
  👩🏾‍💻 I’m currently working in a Fullstack position as a Jr. Developer; <br>
  💭 I’m currently learning Javascript, React and Node.js; <br>
@@ -6,7 +11,7 @@
  🌈 Pronouns: she/her;<br>
  🎨 Fun fact: I love to read, play RPG games, and paint with watercolors.<br>
 
-<div align="left">
+
   
 ### Stack
 
