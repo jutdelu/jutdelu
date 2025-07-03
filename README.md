@@ -6,7 +6,7 @@
 </div>
 
  👩🏾‍💻 I’m currently working in a Fullstack position as a Jr. Developer; <br>
- 💭 I’m currently learning Javascript, React and Node.js; <br>
+ 💭 I’m currently learning JavaScript, TypeScript, React and Node.js; <br>
  ✉️ How to reach me: e-mail and LinkedIn;<br>
  🌈 Pronouns: she/her;<br>
  🎨 Fun fact: I love to read, play RPG games, and paint with watercolors.<br>
