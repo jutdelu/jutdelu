@@ -8,7 +8,7 @@
 #
 
  👩🏾‍💻 I’m currently working in a Fullstack position as a Jr. Developer; <br>
- 💭 I’m learning JavaScript, TypeScript, React and Node.js; <br>
+ 💭 I’m learning Java, Kotlin, Flutter, Angular; <br>
  ✉️ How to reach me: e-mail and LinkedIn;<br>
  🌈 Pronouns: she/her;<br>
  🎨 Fun fact: I love to read, play RPG games, and paint with watercolors.<br>
