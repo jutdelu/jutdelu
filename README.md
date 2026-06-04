@@ -32,13 +32,6 @@
 
 #
 
-### Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jutdelu&theme=transparent&bg_color=000&border_color=5810E6&show_icons=true&icon_color=E410E6&title_color=E410E6&text_color=FFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jutdelu&locale=en&layout=compact&card_width=320&bg_color=000&border_color=5810E6&title_color=E410E6&text_color=FFF"/> 
-
-#
-
 ### Socials
 <div> 
 <a href = "mailto:jtdelunardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
